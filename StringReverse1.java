@@ -1,4 +1,4 @@
-public class StringReverse1 { //Reverse of String Type 1
+    public class StringReverse1 { //Reverse of String Type 1
     public  static void main(String[] args){
         String str1 = " Pw Java Skill";
         String str2 = " ";
