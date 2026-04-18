@@ -1,4 +1,4 @@
-class Animal{ // In this one Parent class have two or more child class
+class Animal /* extends object */{ // In this one Parent class have two or more child class
     void eat(){
         System.out.println("Animal can eat "); // Method of Parent class 
     }
