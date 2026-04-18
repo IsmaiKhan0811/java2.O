@@ -1,12 +1,12 @@
 class Human{
     int age;
-    private String name;
+    private String name; // Privat Members are not inherited in child class
     void sleep(){
         age=19;
         System.out.println("Human Can Sleep ");
         System.out.println("Age is : " + age);
     }
-    Human(){
+    Human(){ // Constructor are also not inherited in child class  
         System.out.println("This is Constructor ");
     }
     
