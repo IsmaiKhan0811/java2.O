@@ -5,9 +5,9 @@ public class Exception { // Types of execution
         int b= 0;
         // 2 int result = a-b;       (Logical Error)
         // 2 System.out.println("Multiply is : " + result);
-        // System.out.println("Divison is : " + a/b); // 3 Runtime Error Execution stop
+        // System.out.println("Divison is : " + a/b); // 3 Runtime Error Execution stop 
         
-        System.out.println("Byeee"); // This line nvr run but this writtem in vell manner 
+        System.out.println("Byeee"); // This line nvr run if runtime error occured but this writtem in vell manner 
 
     }
     
